@@ -1,6 +1,6 @@
-Smilinghan-SPCWC
-
 Smilinghan-SPCWC 是一个 Python 程序，允许用户监控计算机的系统状态并发送电子邮件通知。该程序使用 tkinter 库创建图形用户界面 (GUI)，使用 smtplib 库发送电子邮件。还使用了其他库，如 socket、requests、datetime、pyautogui、threading、os、sys、time 和 ctypes。
+
+[![pCMBARU.png](https://s1.ax1x.com/2023/06/16/pCMBARU.png)](https://imgse.com/i/pCMBARU)
 
 ## 安装
 
